@@ -1,9 +1,9 @@
 # Hi there, I´m Steve 👋
 
-## I'm passionate about technology and cryptocurrencies. MERN full stack student in process!
+## I'm passionate about technology and cryptocurrencies. MERN full stack jr!
 
 
-- 🌱 I’m currently learning JavaScript and the set of technologies: React native, MongoDb, Express, Node js.
+- 🌱 I’m currently learning JavaScript and the set of technologies: MongoDb, Express, React y Node js.
 
 - 2️⃣0️⃣2️⃣2️⃣ I hope to become a developer and find my first job.
 
