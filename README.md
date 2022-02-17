@@ -3,21 +3,21 @@
 ## I'm passionate about technology and cryptocurrencies. MERN full stack jr!
 
 
-- 🌱 I’m currently learning JavaScript and the set of technologies: MongoDb, Express, React y Node js.
+- 🌱 I'm currently a MERN junior full stack programmer: MongoDb, Express, React y Node js.
 
 - 2️⃣0️⃣2️⃣2️⃣ I hope to become a developer and find my first job.
+
+- 🌐 Bit of Me: <a href="https://linktr.ee/steve.ok" target="_blank">Linktree</a>
 
 - 📫 How to reach me: <a href="https://api.whatsapp.com/send?phone=2612121844&text" target="_blank">WhatsApp</a>
 
 - ⚡ Fun fact: I love listening to music  
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
-- 💬 Ask me about anything.
-
 ---
 
 <div align="center">
-  <img height="25em"  src="https://komarev.com/ghpvc/?username=steve-ux&label=Profile%20views&color=DAC03C&style=flat" alt="steve-ux" />
+  <img height="25em"  src="https://komarev.com/ghpvc/?username=steve-ux&label=Profile%20views&color=009a12&style=flat" alt="steve-ux" />
 </div>
 <br />
 
@@ -42,6 +42,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -58,6 +59,8 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
