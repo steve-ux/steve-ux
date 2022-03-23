@@ -71,7 +71,7 @@
   
   ## Proyectos webs:
   
- Las siguientes imágenes son una vista previa de proyectos webs, click en la imagen para visitarla:
+ Las siguientes imágenes son una vista previa de proyectos webs, click en la imagen para visitarla o seguir bajando para acceder al repositorio:
   
  ### Envases Los Andes
 
