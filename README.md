@@ -75,7 +75,7 @@
   
  ### Envases Los Andes
 
-[![Alt text](https://i.imgur.com/ZtVwa2J.png)](https://www.envaseslosandes.com/)
+[![Alt text](https://i.imgur.com/IUPTVrO.png)](https://www.envaseslosandes.com/)
   
 ### Luxury Drinks
 
