@@ -67,7 +67,7 @@
 ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)
 ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
-
+---
   
   ## Proyectos webs:
   
@@ -76,6 +76,10 @@
  ### Envases Los Andes
 
 [![Alt text](https://i.imgur.com/IUPTVrO.png)](https://www.envaseslosandes.com/)
+  
+### Criptofy  
+  
+[![Alt text](https://i.imgur.com/oDX3PP3.png)](https://criptofy.org/)  
   
 ### Luxury Drinks
 
