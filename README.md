@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently a MERN junior full stack programmer: MongoDb, Express, React y Node js.
 
-- Developer jr at Zaldivar ophthalmology. 🏥
+- 🏥 Developer jr at Zaldivar ophthalmology. 
 
 - 🌐 Bit of Me: <a href="https://linktr.ee/steve.ok" target="_blank">Linktree</a>
 
